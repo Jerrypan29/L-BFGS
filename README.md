@@ -50,6 +50,7 @@ If you find this project helpful to your research, please consider citing:
   year={2025},
   organization={IEEE}
 }
+
 @inproceedings{xiong2023efficient,
   title={Efficient FPGA-Based Accelerator of the L-BFGS Algorithm for IoT Applications},
   author={Xiong, Huiyang and Xiong, Bohang and Wang, Wenhao and Tian, Jing and Zhu, Hao and Wang, Zhongfeng},
