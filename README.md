@@ -32,7 +32,7 @@ For any questions or contributions, please open an issue.
 To use the modified L-BFGS optimizer in your project, you can clone this repository and import the necessary modules.
 
 ```bash
-git clone https://github.com/Jerrypan29/L-BFGS.git
+git clone https://github.com/Jerrypan29/L-BFGS_3Dface_FPGA.git
 ```
 
 After cloning, locate the RTL files and IP cores in the repository, and then import them into Vivado.
