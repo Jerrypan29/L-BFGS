@@ -25,7 +25,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Special thanks to the contributors of the [FaceScape project](https://github.com/zhuhao-nju/facescape.git) for their open-source code.
 
-For any questions or contributions, please open an issue or submit a pull request.
+For any questions or contributions, please open an issue.
 
 ## Usage
 
