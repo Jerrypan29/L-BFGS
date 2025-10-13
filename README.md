@@ -41,23 +41,24 @@ After cloning, locate the RTL files and IP cores in the repository, and then imp
 
 If you find this project helpful to your research, please consider citing:
 
+```bibtex
 @inproceedings{pan2025high,
-  title={High-Performance FPGA-Based Accelerator of L-BFGS for 3D Face Reconstruction},
-  author={Pan, Haoran and Xiong, Bohang and Tian, Jing and Zhang, Shikun and Zhu, Hao and Wang, Zhongfeng},
-  booktitle={2025 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
-  volume={1},
-  pages={1--6},
-  year={2025},
-  organization={IEEE}
+  title     = {High-Performance FPGA-Based Accelerator of L-BFGS for 3D Face Reconstruction},
+  author    = {Pan, Haoran and Xiong, Bohang and Tian, Jing and Zhang, Shikun and Zhu, Hao and Wang, Zhongfeng},
+  booktitle = {2025 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)},
+  volume    = {1},
+  pages     = {1--6},
+  year      = {2025},
+  organization = {IEEE}
 }
 
 @inproceedings{xiong2023efficient,
-  title={Efficient FPGA-Based Accelerator of the L-BFGS Algorithm for IoT Applications},
-  author={Xiong, Huiyang and Xiong, Bohang and Wang, Wenhao and Tian, Jing and Zhu, Hao and Wang, Zhongfeng},
-  booktitle={2023 IEEE International Symposium on Circuits and Systems (ISCAS)},
-  pages={1--5},
-  year={2023},
-  organization={IEEE}
-} 
+  title     = {Efficient FPGA-Based Accelerator of the L-BFGS Algorithm for IoT Applications},
+  author    = {Xiong, Huiyang and Xiong, Bohang and Wang, Wenhao and Tian, Jing and Zhu, Hao and Wang, Zhongfeng},
+  booktitle = {2023 IEEE International Symposium on Circuits and Systems (ISCAS)},
+  pages     = {1--5},
+  year      = {2023},
+  organization = {IEEE}
+}
 
 
